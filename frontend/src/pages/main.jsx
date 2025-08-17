@@ -8,7 +8,7 @@ function Main() {
       <li>Пятнашки</li>
       <li>Парочки</li>
     </ul>
-  </section>;
+  </section>
   </>
 }
 export default Main;

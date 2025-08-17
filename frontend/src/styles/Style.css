@@ -1,0 +1,16 @@
+.custom-card {
+  background-color: hsla(0, 0%, 10%, 0.1);
+  margin-inline: 1.5rem;
+  padding: 2.5rem 1.5rem;
+  border-radius: 1rem;
+  backdrop-filter: blur(10px);
+}
+
+.blur-border {
+  position: relative;
+  border-radius: 1rem;
+  box-shadow:
+    0 0 5px rgb(248, 248, 248),
+    0 0 10px rgba(255, 0, 212, 0.6),
+    0 0 15px rgb(72, 6, 255);
+}
